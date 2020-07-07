@@ -3,7 +3,6 @@
 //  Clima
 //
 //  Created by MacBook on 12/13/19.
-//  Copyright © 2019 App Brewery. All rights reserved.
 //
 
 import Foundation
